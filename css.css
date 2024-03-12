@@ -1,9 +1,84 @@
 body{
-    background-color: black;
-}
-.text{
-    color: darkblue;
+    background-color: rgb(218, 241, 236);
     text-align: center;
-    font-family: monospace;
-
+}
+.logo{
+    position: relative;
+    height: 300px;
+}
+.stock{
+    position: relative;
+    width: 50px;
+}
+.oserver{
+    position: relative;
+    width: 40px;
+}
+.tower{
+    position: relative;
+    width: 45px;
+}
+.castle{
+    position: relative;
+    width: 45px;
+}
+.tita{
+    position: relative;
+    width: 45px;
+}
+.viva{
+    position: relative;
+    width: 45px;
+}
+.poseidon{
+    position: relative;
+    width: 45px;
+}
+.medusa{
+    position: relative;
+    width: 45px;
+}
+.ollympus{
+    position: relative;
+    width: 45px;
+}
+.pegasus{
+    position: relative;
+    width: 45px;
+}
+.sal3{
+    position: relative;
+    width: 45px;
+}
+.hercules{
+    position: relative;
+    width: 45px;
+}
+.patas{
+    position: relative;
+    width: 50px;
+}
+.squirrel{
+    position: relative;
+    width: 48px;
+}
+.bio{
+    position: relative;
+    width: 43px;
+}
+.fox{
+    position: relative;
+    width: 44px;
+}
+.home{
+    position: relative;
+    height: 45px;
+}
+.slogan{
+    position: relative;
+    width: 300px;
+}
+.ass{
+    position: relative;
+    width: 150px;
 }
